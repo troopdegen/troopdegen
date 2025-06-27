@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=troopdegen" alt="troopdegen" /></a> </p>
 
-- 🍄 i’m currently working on [regen tips](https://regen.tips)
+- 🧪 i’m currently working at [dabl club](https://dabl.club)
 
-- 🎩 i’m currently learning about **becoming a founder and leading high-performance teams**
+- 🍄 i’m core contributor at [regen tips](https://regen.tips)
 
 - 🥭 i’m co-founder and community lead at [frutero club](https://frutero.club)
 
-- 🤝 i’m looking for help with **scaling builder programs**
+- 🎩 i’m currently learning about **DeFi and Consumer Products**
 
 - 💬 ask me about **tech, sports and science**
 
