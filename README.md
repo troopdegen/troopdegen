@@ -15,7 +15,7 @@
 
 - 💬 ask me about **tech, sports and science**
 
-- 📄 know more about my professional experience (here)[https://drive.google.com/file/d/1JlQ777MTPuk_WmuAMjVQWJ7cVagiVesx/view?usp=sharing](https://drive.google.com/file/d/1JlQ777MTPuk_WmuAMjVQWJ7cVagiVesx/view?usp=sharing)
+- 📄 know more about my professional experience [here](https://drive.google.com/file/d/1JlQ777MTPuk_WmuAMjVQWJ7cVagiVesx/view?usp=sharing](https://drive.google.com/file/d/1JlQ777MTPuk_WmuAMjVQWJ7cVagiVesx/view?usp=sharing)
 
 - ⚡ fun fact **i'm a biomedical engineer**
 
